@@ -1,0 +1,1 @@
+"use strict";function clickIconMenu(e){e.target.closest(".icon_menu")&&document.documentElement.classList.toggle("menu_open")}document.addEventListener("click",clickIconMenu);
